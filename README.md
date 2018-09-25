@@ -1,5 +1,3 @@
-# project-lvl1-s348
-
 # Console based games
 
 # Asciinema recs:
