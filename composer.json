@@ -1,6 +1,9 @@
 {
     "name": "tungatarov/brain-games-php",
     "description": "Console based brain games in php",
+    "bin": [
+        "bin/brain-games"
+    ],
     "type": "project",
     "license": "MIT",
     "authors": [
