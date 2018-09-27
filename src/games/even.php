@@ -23,8 +23,8 @@ function gameRun()
         $question = rand(0, 100);
         $answer = getCorrectAnswer($question);
         return [
-            "getQuestion" => $question,
-            "getCorrectAnswer" => "{$answer}"
+            "question" => $question,
+            "correctAnswer" => "{$answer}"
         ];
     };
     return startEngine($gameData, EVEN_GAME_RULES);

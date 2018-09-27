@@ -33,8 +33,8 @@ function gameRun()
         $answer = getCorrectAnswer($firstNum, $secondNum, $randomOperation);
         
         return [
-            "getQuestion" => $question,
-            "getCorrectAnswer" => "{$answer}"
+            "question" => $question,
+            "correctAnswer" => "{$answer}"
         ];
     };
     return startEngine($gameData, CALC_GAME_RULES);
