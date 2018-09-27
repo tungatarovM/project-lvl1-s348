@@ -13,6 +13,7 @@ function greeting()
     $name = prompt("May I have your name?");
     line("Hello {$name}");
 }
+
 function startEngine($gameData, $gameRules)
 {
     line("Welcome to the Brain Games! \n");
