@@ -16,7 +16,7 @@ function sayPrime($num)
 
 function gameRun()
 {
-    $num = random(0, 50);
+    $num = rand(0, 50);
     $question = "{$num}";
     $answer = sayPrime($num);
     return [
