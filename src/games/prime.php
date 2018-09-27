@@ -6,7 +6,7 @@ use function \BrainGames\Cli\startEngine;
 
 function isPrime($num)
 {
-    return num % 2 === 0;
+    return $num % 2 === 0;
 }
 
 function sayPrime($num)
