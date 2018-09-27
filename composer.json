@@ -2,7 +2,8 @@
     "name": "tungatarov/brain-games-php",
     "description": "Console based brain games in php",
     "bin": [
-        "bin/brain-games"
+        "bin/brain-games",
+        "bin/brain-even"
     ],
     "type": "project",
     "license": "MIT",
@@ -17,7 +18,8 @@
     },
     "autoload": {
         "files": [
-            "src/Cli.php"
+            "src/Cli.php",
+            "src/games/even.php"
         ]
     },
     "require": {
