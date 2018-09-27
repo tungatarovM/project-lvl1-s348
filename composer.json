@@ -3,7 +3,8 @@
     "description": "Console based brain games in php",
     "bin": [
         "bin/brain-games",
-        "bin/brain-even"
+        "bin/brain-even",
+        "bin/brain-calc"
     ],
     "type": "project",
     "license": "MIT",
@@ -19,7 +20,8 @@
     "autoload": {
         "files": [
             "src/Cli.php",
-            "src/games/even.php"
+            "src/games/even.php",
+            "src/games/calc.php"
         ]
     },
     "require": {
