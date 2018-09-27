@@ -8,3 +8,5 @@
 2. 4th checkpoint: https://asciinema.org/a/c8K5yZfgjWXnulWkHhLcat5B8
 
 3. 5th checkpoint: https://asciinema.org/a/LuI5rDNgBHxROwPOmFE6aCC2W
+
+4. 6th checkpoint: https://asciinema.org/a/aozqsWbD5aH1HwvZOcVg4bEni
