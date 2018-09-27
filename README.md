@@ -6,3 +6,5 @@
 1. https://asciinema.org/a/gne52A0Vn3YIh9tSK9qq3m2jg;
 
 2. 4th checkpoint: https://asciinema.org/a/c8K5yZfgjWXnulWkHhLcat5B8
+
+3. 5th checkpoint: https://asciinema.org/a/LuI5rDNgBHxROwPOmFE6aCC2W
